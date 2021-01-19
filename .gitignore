@@ -9,6 +9,7 @@ optical_flow/
 
 ### and data files###
 *.hkl
+*.gif
 
 
 ### mac OS specific ###
