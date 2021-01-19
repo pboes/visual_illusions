@@ -5,7 +5,7 @@
 ### Ignore data folders ###
 
 optical_flow/
-*kitti_data/
+*/kitti_data/
 
 ### and data files###
 *.hkl
